@@ -1,21 +1,23 @@
 {
-    "name" : "fis-parser-less-2.x",
-    "description" : "A parser for fis to compile less(v2.x) file.",
-    "version" : "0.1.4",
-    "author" : "FIS Team <fis@baidu.com>",
-    "homepage" : "https://github.com/fouber/fis-parser-less",
-    "keywords": [ "fis", "less" ],
-    "license": "MIT",
-    "main" : "index.js",
-    "engines" : {
-        "node" : ">= 0.8.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/fouber/fis-parser-less-2.x"
-    },
-    "scripts" : {},
-    "dependencies" : {
-        "less" : "2.5.0"
-    }
+  "name": "fis3-parser-less-latest",
+  "version" : "0.0.1",
+  "description" : "fis3 编译 less 3.x 的插件",
+  "author" : "renxia <lzwy0820@qq.com> (https://lzw.me)",
+  "maintainers": [
+    "renxia <lzwy0820@qq.com> (https://lzw.me)"
+  ],
+  "homepage" : "https://github.com/renxia/fis3-parser-less-latest",
+  "keywords": [ "fis", "fi3", "less", "less3", "lzwme" ],
+  "license": "MIT",
+  "main" : "index.js",
+  "engines" : {
+    "node" : ">= 6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renxia/fis3-parser-less-latest"
+  },
+  "dependencies" : {
+    "less" : "~3.8.1"
+  }
 }

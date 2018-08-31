@@ -9,3 +9,5 @@ node_modules/
 ~*
 
 upload.py
+yarn.lock
+package-lock.json
